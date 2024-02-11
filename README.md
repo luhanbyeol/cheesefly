@@ -17,18 +17,23 @@ CheeseFly enhances your streaming experience by sending Chzzk chats through HTTP
 ## Launch
 
 ```shell
-$ java -jar cheesefly-0.0.1.jar --chzzk.nid.aut=... --chzzk.nid.ses=... --chzzk.channel.id=...
+$ java -jar cheesefly-0.0.2.jar --chzzk.nid.aut=... --chzzk.nid.ses=... --chzzk.channel.id=...
 ```
 
 ## Features
 
 ### Sending chat
 
-- POST http://localhost:8929/chzzk/chat
-  ```json
-  {
-    "message": "Hello, World!"
-  }
+- http://localhost:8929/chzzk/chat
+  ```
+  Method
+    POST
+  Header
+    Content-Type: application/json
+  Body
+    {
+      "message": "Hello, World!"
+    }
   ```
 
 ## Packaging
