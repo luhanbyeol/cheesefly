@@ -11,7 +11,7 @@
 
 	<groupId>com.luhanbyeol</groupId>
 	<artifactId>cheesefly</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3</version>
 
 	<name>CheeseFly</name>
 	<description>CheeseFly enhances your streaming experience by sending Chzzk chats through HTTP requests, OBS shortcuts or MIDI!</description>
@@ -58,7 +58,7 @@
 		<dependency>
 			<groupId>io.github.R2turnTrue</groupId>
 			<artifactId>chzzk4j</artifactId>
-			<version>0.0.3</version>
+			<version>0.0.4</version>
 		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>

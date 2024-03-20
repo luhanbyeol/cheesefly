@@ -17,7 +17,7 @@ CheeseFly enhances your streaming experience by sending Chzzk chats through HTTP
 ## Launch
 
 ```shell
-$ java -jar cheesefly-0.0.2.jar --chzzk.nid.aut=... --chzzk.nid.ses=... --chzzk.channel.id=...
+$ java -jar cheesefly-0.0.3.jar --chzzk.nid.aut=... --chzzk.nid.ses=... --chzzk.channel.id=...
 ```
 
 ## Features

@@ -1,3 +1,9 @@
+# 0.0.3 (21 Mar 2024)
+
+## Dependency Updates
+
+- Bump `chzzk4j` from 0.0.3 to 0.0.4 to resolve timeout exception
+
 # 0.0.2 (12 Feb 2024)
 
 ## Bug fixes
